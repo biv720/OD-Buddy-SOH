@@ -1,0 +1,169 @@
+.Pg1Body{
+    border-top: 50px solid;
+    border-color: #fff4ec;
+    background-color: white;
+
+}
+
+
+#id{
+    border-top: 50px solid;
+    border-color: aquamarine;
+}
+
+.logo1{
+    width: 70px;
+    background: none;
+    height:auto;
+    border:none;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    height: 50px;
+    top: -100px;
+    left: -160px;
+}
+
+.icon{
+    width: 70px;
+    background: none;
+    height:auto;
+    border:none;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    height: 50px;
+    top: -100px;
+    left: 1080px;
+}
+
+.select{
+    font-weight: bolder;
+    text-decoration: none;
+    color: orange;
+    width: 170px;
+    background: none;
+    height:auto;
+    border:none;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    height: 150px;
+    top: -115px;
+    left: 632px;
+}
+
+
+/* HERE LIES THE ALT PAGE */
+.dropdownborder{
+    border-top: 50px solid orange;
+}
+
+.dav{
+    text-decoration: none;
+    color: whitesmoke;
+    position: absolute;
+    top: 70px;
+    left: 140px;
+}
+
+.outr{
+    text-decoration: none;
+    color: whitesmoke;
+    position: absolute;
+    top: 70px;
+    left: 900px;
+}
+
+#outr{
+    font-weight: bolder;
+    text-decoration: none;
+    color: whitesmoke;
+    position: absolute;
+    top: 70px;
+    left: 900px;
+}
+
+.instsep{
+    border-left: 3px solid white;
+    height: 40px;
+    top: 62px;
+    left: 720px;
+    position: absolute;
+}
+
+.leftborder{
+    border-left: 40px solid #fff4ec;
+    position: absolute;
+    height: 740px;
+    top:110px
+}
+
+.rightborder{
+    border-right: 140px solid #fff4ec;
+    position: absolute;
+    height: 740px;
+    top:110px
+}
+
+
+.btn{
+    width: 40px;
+    height: 40px;
+    top: 110px;
+    background: none;
+    border: none;
+    color: orange;
+    position: absolute;
+    cursor: pointer;
+    left: 7px;
+}
+
+.btn1{
+    width: 40px;
+    height: 40px;
+    top: 150px;
+    background: none;
+    border: none;
+    color: orange;
+    position: absolute;
+    cursor: pointer;
+    left: 7px;
+}
+
+.btn2{
+    width: 40px;
+    height: 40px;
+    top: 190px;
+    background: none;
+    border: none;
+    color: orange;
+    position: absolute;
+    cursor: pointer;
+    left: 7px;
+}
+
+.btn3{
+    width: 40px;
+    height: 40px;
+    top: 230px;
+    background: none;
+    border: none;
+    color: orange;
+    position: absolute;
+    cursor: pointer;
+    left: 6px;
+}
+
+
+.btn4{
+    width: 40px;
+    height: 40px;
+    top: 770px;
+    background: none;
+    border: none;
+    color: orange;
+    position: absolute;
+    cursor: pointer;
+    left: 5px;
+}

@@ -1,0 +1,68 @@
+.Pg1Body{
+    border-top: 50px solid;
+    border-color: #fff4ec;
+    background-color: white;
+
+}
+
+
+#id{
+    border-top: 50px solid;
+    border-color: aquamarine;
+}
+
+.logo1{
+    width: 70px;
+    background: none;
+    height:auto;
+    border:none;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    height: 50px;
+    top: -50px;
+    left: -160px;
+}
+
+.icon{
+    width: 70px;
+    background: none;
+    height:auto;
+    border:none;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    height: 50px;
+    top: -50px;
+    left: 1080px;
+}
+
+.select{
+    font-weight: bolder;
+    text-decoration: none;
+    color: orange;
+    width: 170px;
+    background: none;
+    height:auto;
+    border:none;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    height: 150px;
+    top: -65px;
+    left: 632px;
+}
+
+.noinfoicon{
+    width: max-content;
+    position: absolute;
+    left: 550px;
+    top: 200px;
+}
+
+.noinfotext{
+    position: absolute;
+    left: 410px;
+    top: 500px;
+    opacity: 50%;
+}
